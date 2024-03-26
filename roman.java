@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  *
- * @author andege
+ * @author aonyancha
  */
 public class RomanNumeral {
 
